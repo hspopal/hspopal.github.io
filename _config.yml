@@ -1,0 +1,6 @@
+#exclude: ["README.md"]
+
+remote_theme: just-the-docs/just-the-docs
+#logo: 
+#color_scheme: cog_website
+
