@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Research
-nav_order: 1
-parent: About Me
+nav_order: 2
 ---
 
 # Social Relationship Knowledge
