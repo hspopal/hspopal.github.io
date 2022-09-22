@@ -4,3 +4,18 @@ remote_theme: just-the-docs/just-the-docs
 #logo: 
 #color_scheme: cog_website
 
+aux_links:
+  "Haroon Popal on GitHub":
+    - "//github.com/hspopal"
+aux_links_new_tab: true
+
+title: Haroon Popal
+description: PhD Candidate at Temple University
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+last_edit_timestamp: true
+
+ga_tracking: G-ZP3VYT3TCG
+ga_tracking_anonymize_ip: true
