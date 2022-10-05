@@ -16,9 +16,7 @@ We conducted a survey on Amazon Mechanical Turk in which participants were asked
 
 ## The Categorical Representational
 
-<img src="/assets/images/pca_5pc_12_scatter_kmeans.png" alt="drawing" width="400"/>
-
-<img src="/assets/images/pca_5pc_34_scatter_kmeans.png" alt="drawing" width="400"/>
+<img src="/assets/images/pca_5pc_12_scatter_kmeans.png" alt="drawing" width="400"/><img src="/assets/images/pca_5pc_34_scatter_kmeans.png" alt="drawing" width="400"/>
 
 ## The Neural Representation
 
