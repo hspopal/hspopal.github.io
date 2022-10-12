@@ -16,13 +16,18 @@ We conducted a survey on Amazon Mechanical Turk in which participants were asked
 
 ## The Categorical Representational
 
+Within the dimensional space we discovered above, we also explored categorical representations that may be embedded within this space. we use a variety of clustering techinques (k-means, hierarchical, UMAP, t-SNE) and data from our 5-component space, and two behavioral surveys to explore categorical representations. Across these data sources and clustering techinques, we found that the most consistent clusters are the fix that are shown below. This clustering is from a k-means clustering of our FAVEE model. It shows that categories of positive, negative, distant, occupational, and transactional relationships can be used to described social relationships. 
+
 <img src="/assets/images/pca_5pc_12_scatter_kmeans.png" alt="drawing" width="400"/><img src="/assets/images/pca_5pc_34_scatter_kmeans.png" alt="drawing" width="400"/>
 
 ## The Neural Representation
 
+In our final analysis, we wished to understand how social relationship knowledge is represented in the brain. Specifically, we wanted to test our FAVEE model to see if it is represented in regions of the social brain network, and whether a dimensional or categorical neural representation is stronger. 
 
+During an fMRI task which asked participants to consider which of two scenarios was most appropriate for a given relationship, regions of the "social brain" network were reliably activated. This included the posterior cingulate cortex, medial prefrontal cortex, temporoparietal junction, and a region within the posterior cerebellum.
 <img src="/assets/images/relb_map_sm_thr_surf.png" alt="drawing" width="400"/>
 
+A representational similarity analysis was used to explore whether our FAVEE relationship dimensions were represented within these regions that were reliably activated in our task. Formality was found to be significantly represented, where relationships that were more similar in terms of how formal they were, had more similar patterns of activation throughout this network.
 <img src="/assets/images/roi_subject-level_violinplot.png" alt="drawing" width="400"/>
 
 # Social Cognition and the Cerebellum
