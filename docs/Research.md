@@ -25,6 +25,7 @@ Within the dimensional space we discovered above, we also explored categorical r
 In our final analysis, we wished to understand how social relationship knowledge is represented in the brain. Specifically, we wanted to test our FAVEE model to see if it is represented in regions of the social brain network, and whether a dimensional or categorical neural representation is stronger. 
 
 During an fMRI task which asked participants to consider which of two scenarios was most appropriate for a given relationship, regions of the "social brain" network were reliably activated. This included the posterior cingulate cortex, medial prefrontal cortex, temporoparietal junction, and a region within the posterior cerebellum.
+
 <img src="/assets/images/relb_map_sm_thr_surf.png" alt="drawing" width="400"/>
 
 A representational similarity analysis was used to explore whether our FAVEE relationship dimensions were represented within these regions that were reliably activated in our task. Formality was found to be significantly represented, where relationships that were more similar in terms of how formal they were, had more similar patterns of activation throughout this network.
