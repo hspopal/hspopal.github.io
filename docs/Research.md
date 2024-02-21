@@ -14,7 +14,7 @@ We conducted a survey on Amazon Mechanical Turk in which participants were asked
 <img src="/assets/images/srk_behavioral_summary.png" alt="drawing" width="600"/>
 
 
-## The Categorical Representational
+## The Categorical Representation
 
 Within the dimensional space we discovered above, we also explored categorical representations that may be embedded within this space. we use a variety of clustering techinques (k-means, hierarchical, UMAP, t-SNE) and data from our 5-component space, and two behavioral surveys to explore categorical representations. Across these data sources and clustering techinques, we found that the most consistent clusters are the fix that are shown below. This clustering is from a k-means clustering of our FAVEE model. It shows that categories of positive, negative, distant, occupational, and transactional relationships can be used to described social relationships. 
 
