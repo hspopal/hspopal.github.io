@@ -4,9 +4,14 @@ title: Publications
 nav_order: 3
 ---
 
-Benear, S. L., **Popal, H. S.**, Zheng, Y., Tanriverdi, B., Murty, V. P., Perlman, S. B., … Newcombe, N. (Submitted). Setting boundaries: Development of neural and behavioral event cognition in early childhood. PsyArXiv. https://doi.org/10.31234/osf.io/uvf9h [[PDF](https://psyarxiv.com/uvf9h/download?format=pdf)]
+Cheng, X., Popal, H., Wang, H., Hu, R., Zang, Y., Zhang, M., Thornton, M.A., Cai, H., Bi, Y., Reilly, R., Olson, I.R., Wang, Y. (Under Review). The conceptual structure of human relationships across modern and historical cultures. PsyArXiv. 
+[[PDF](https://osf.io/ut6qp/download)]
 
-Jobson, K.R., Hoffman, L.J., Metoki, A., **Popal, H.**, Dick, A.S., Reilly, J., Olson, I.R. (Under review). Language and the cerebellum: structural connectivity to the eloquent brain. bioRxiv, 2022.04.19.488812. https://doi.org/10.1101/2022.04.19.488812 [[PDF](https://www.biorxiv.org/content/10.1101/2022.04.19.488812.full.pdf)]
+Benear, S.L., **Popal, H.S.**, Zheng, Y., Tanriverdi, B., Murty, V.P., Perlman, S.B., … Newcombe, N. (2023). Setting boundaries: Development of neural and behavioral event cognition in early childhood. Developmental Science, 26 (6). https://doi.org/10.1111/desc.13409 [[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/desc.13409)]
+
+Olson, I.R., Hoffman, L.J., Jobson, K.R., Popa, H.S., Wang, Y. (2023) Little brain, little minds: The big role of the cerebellum in social development. Developmental Cognitive Neuroscience, 60. https://doi.org/10.1016/j.dcn.2023.101238 [[PDF](https://www.sciencedirect.com/science/article/pii/S1878929323000439/pdfft?md5=502ef816a532c0001a79d4a107bc9075&pid=1-s2.0-S1878929323000439-main.pdf)]
+
+Jobson, K.R., Hoffman, L.J., Metoki, A., **Popal, H.**, Dick, A.S., Reilly, J., Olson, I.R. (2022). Language and the cerebellum: structural connectivity to the eloquent brain. Neurobiology of Language, 1-24. https://doi.org/10.1101/2022.04.19.488812 [[PDF](https://direct.mit.edu/nol/article-pdf/doi/10.1162/nol_a_00085/2058291/nol_a_00085.pdf)]
 
 Frazier, M., Hoffman, L.J., **Popal, H.**, Sullivan-Toole, H., Olino, T., Olson, I. (2022). A missing link in affect regulation: The cerebellum. Social Cognitive Affective Neuroscience. https://doi.org/10.1093/scan/nsac042 [[PDF](https://academic.oup.com/scan/advance-article-pdf/doi/10.1093/scan/nsac042/44857233/nsac042.pdf)]
 
