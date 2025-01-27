@@ -12,7 +12,6 @@ I am a Postdoctoral Associate in [Dr. Elizabeth Redcay's laboratory](http://www.
 
 The cerebellum is often excluded when trying to understand the neural processes underlying social cognition. However, recent work has shown that it is implicated in a variety of social tasks and psychiatric disorders with social deficits. My research aims to differentiate the cerebellum's contribution to social cognition, from that of the more well-understood regions of the cerebrum. 
 
-[Twitter](https://twitter.com/hpopal_brain){: .btn }
 [Bluesky](https://bsky.app/profile/hpopal-brain.bsky.social){: .btn }
 [Google 
 Scholar](https://scholar.google.com/citations?user=eD8NDPAAAAAJ&hl=en&oi=ao){: 
