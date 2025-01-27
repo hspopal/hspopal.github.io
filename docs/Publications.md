@@ -4,7 +4,7 @@ title: Publications
 nav_order: 3
 ---
 
-**Popal, H.**, Cheng, X., Wang, H., Hu, R., Zang, Y., Zhang, M., Thornton, M.A., Cai, H., Bi, Y., Reilly, R., Olson, I.R., Wang, Y. (Under Review). The conceptual structure of human relationships across modern and historical cultures. PsyArXiv. 
+**Popal, H.**, Cheng, X., Wang, H., Hu, R., Zang, Y., Zhang, M., Thornton, M.A., Cai, H., Bi, Y., Reilly, R., Olson, I.R., Wang, Y. (Accepted). The conceptual structure of human relationships across modern and historical cultures. Nature Human Behaviour. 
 [[PDF](https://osf.io/ut6qp/download)]
 
 Benear, S.L., **Popal, H.S.**, Zheng, Y., Tanriverdi, B., Murty, V.P., Perlman, S.B., … Newcombe, N. (2023). Setting boundaries: Development of neural and behavioral event cognition in early childhood. Developmental Science, 26 (6). https://doi.org/10.1111/desc.13409 [[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/desc.13409)]
