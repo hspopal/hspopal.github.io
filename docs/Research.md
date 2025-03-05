@@ -6,15 +6,19 @@ nav_order: 2
 
 # Social Relationship Knowledge
 
-When we interact with other people, we make inferences about them, and act accordingly based in part on our social relationship to them. Key older work on social relationships in social psychology and sociology explored the semantic space of social relational concepts and hypothesized that these concepts are represented dimensionally and categoricall. However, these studies failed to reach agreement on the organizing dimensions of human relationships and no attempt was made to understand the neural foundations. The goal of this study was to understand the representational architecture of social relationship knowledge. We hypothesized that our concepts of social relationships are organized along multi-dimensional components, with categories embedded in the dimensional space.
+The overarching theme of my research career has been focusing on social knowledge, the semantic information we use to interact with others and to establish social norms and concepts. For example, spouses and siblings are two types of social relationships, our our knowledge about these relationships tells us the "rules" or typical actions of people in these different relationships. We can refer to this type of social knowledge as social relationship knowledge. When we interact with other people, we make inferences about them, and act accordingly based in part on our social relationship to them. While you can have love towards your sibling and your spouse, our social relationship knowledge of these relationships tells use that these relationships are different in other aspects (e.g. intimacy). If you have seen the first episode of Game of Thrones, your social relationship knowledge allowed you to process the last scene in that episode to set off alarms that something is wrong here.
 
-## The Dimensional Representation
+
+## FAVEE-HPP - A Social Relationship Model
+There has been considerable work in psychology, sociology, biology, and economics to try to understand social relationships. This has led to a variety of theories, in which some features have been used to describe a social relationship knowledge "space". For example, one can think of relationships along certain dimensions such as valence. Relationships can be positive, negative, and everything in between. Another perspective could be that relationships are categorical; we have relationships between people in our family, our friends, or at our work. In graduate school, my colleagues and I developed a dimensional model of describing social relationships, in which categories could be embedded within. These dimensions were Formality, Activeness, Valence, Exchange, and Equality (FAVEE), with three large categories of Hostile, Positive, and Private that could fit within those dimensions. 
+
+### The Dimensional Representation
 We conducted a survey on Amazon Mechanical Turk in which participants were asked to rate 159 social relationships on 30 dimensions derived from theories from the literature on social relationships. Next, we conducted Principal Component Analysis to find the overarching components that could account for the variance in social relationships. We found that five components – formality, activeness, valence, exchange, and equality - accounted for most of the variance in the dimensional ratings of social relationships. 
 
 <img src="/assets/images/srk_behavioral_summary.png" alt="drawing" width="600"/>
 
 
-## The Categorical Representation
+### The Categorical Representation
 
 Within the dimensional space we discovered above, we also explored categorical representations that may be embedded within this space. we use a variety of clustering techinques (k-means, hierarchical, UMAP, t-SNE) and data from our 5-component space, and two behavioral surveys to explore categorical representations. Across these data sources and clustering techinques, we found that the most consistent clusters are the fix that are shown below. This clustering is from a k-means clustering of our FAVEE model. It shows that categories of positive, negative, distant, occupational, and transactional relationships can be used to described social relationships. 
 

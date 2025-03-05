@@ -5,7 +5,7 @@ nav_order: 1
 has_children: false
 permalink: /
 ---
-# Haroon Popal
+# Haroon Popal, PhD
 <img src="/assets/images/headshot.png" alt="drawing" width="200"/>
 
 I am a Postdoctoral Associate in [Dr. Elizabeth Redcay's laboratory](http://www.dscn.umd.edu/) at the University of Maryland, College Park. I completed my PhD with Dr. Ingrid Olson at Temple University studying the neural representation of social knowledge, and how the cerebellum interacts with regions of the default mode network to support this process. Currently, I am studying how the cerebellum is involved social learning in autistic and non-autistic adolescents. 
