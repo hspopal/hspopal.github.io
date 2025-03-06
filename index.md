@@ -16,3 +16,4 @@ The cerebellum is often excluded when trying to understand the neural processes 
 [Google 
 Scholar](https://scholar.google.com/citations?user=eD8NDPAAAAAJ&hl=en&oi=ao){: 
 .btn }
+[LinkedIn](https://www.linkedin.com/in/haroon-popal/){: .btn }
