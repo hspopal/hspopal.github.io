@@ -8,7 +8,11 @@ permalink: /docs/research
 
 # Social Relationship Knowledge
 
+<img src="/assets/images/FAVEE-HPP_model.png" alt="drawing" width="600"/>
+
 The overarching theme of my research career has been focusing on social knowledge, the semantic information we use to interact with others and to establish social norms and concepts. For example, spouses and siblings are two types of social relationships, where our knowledge about these relationships tells us the "rules" or typical actions of people in these different relationships. We can refer to this type of social knowledge as social relationship knowledge. When we interact with other people, we make inferences about them, and act accordingly based in part on our social relationship to them. While you can have love towards your sibling and your spouse, our social relationship knowledge of these relationships tells us that these relationships are different in other aspects (e.g. intimacy). If you have seen the first episode of Game of Thrones, your social relationship knowledge allowed you to process the last scene in that episode to set off alarms that something is wrong here.
+
+<img src="/assets/images/Jaime-and-Cersei.jpg" alt="drawing" width="600"/>
 
 
 
