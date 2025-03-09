@@ -17,7 +17,7 @@ Next, we needed features that could be used to rate the relationships. We looked
 
 This could be one model of social relationship knowledge. However, this is hard to understand! It is a lot of data, and doesn't provide us with an easy to use model that we can intuitively use to describe social relationships. So, we applied a dimensionality reduction technique called principal component analysis (PCA), to reduce the number of dimensions, while still being able to capture enough of the original data to be a good model. This led us to the five dimensional FAVEE model. Below, we can see how the original features map onto these new dimensions, and how the 159 social relationships are organized in this 5-dimensional space. 
 
-<iframe src="/assets/images/rel_score_plot.html" width="150%" height="500" style="border:1px solid black;">  </iframe>
+<iframe src="/assets/images/rel_score_plot.html" width="1000" height="500" style="border:1px solid black;">  </iframe>
 
 ### The Categorical Representation
 
