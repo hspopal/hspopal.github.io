@@ -14,7 +14,7 @@ To develop the FAVEE social relationship model, we collected data from thousands
 
 Next, we needed features that could be used to rate the relationships. We looked at all the previous literature on social relationships we could find, and made a dictionary of all the features described in each previous source. This led to 30 unique features. In our initial study with participants from the US, we had over 1000 participants rate a subset of the relationships on a subset of the features. This lead to a large dataset with at least 20 ratings per relationship on each feature. The matrix below shows the average data, where we can see how strongly participants thought each feature described each relationship. 
 
-<img src="/assets/images/pca_5pc_12_scatter_kmeans.png" alt="drawing" width="400"/><img src="/assets/images/pca_5pc_34_scatter_kmeans.png" alt="drawing" width="400"/>
+<img src="/assets/images/dim_rel.png" alt="drawing" width="400"/><img src="/assets/images/pca_5pc_34_scatter_kmeans.png" alt="drawing" width="400"/>
 
 This could be one model of social relationship knowledge. However, this is hard to understand! It is a lot of data, and doesn't provide us with an easy to use model that we can intuitively use to describe social relationships. So, we applied a dimensionality reduction technique called principal component analysis (PCA), to reduce the number of dimensions, while still being able to capture enough of the original data to be a good model. This led us to the five dimensional FAVEE model. Below, we can see how the original features map onto these new dimensions, and how the 159 social relationships are organized in this 5-dimensional space. 
 
