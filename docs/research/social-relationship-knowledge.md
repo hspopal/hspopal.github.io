@@ -35,9 +35,9 @@ In our final analysis, we wished to understand how the brain organizes social re
 
 During an fMRI task which asked participants to consider which of two scenarios was most appropriate for a given relationship, regions of the "social brain" network, or the default mode network, were reliably activated. This included the posterior cingulate cortex, medial prefrontal cortex, temporoparietal junction, superior temporal sulcus, and a region within the posterior cerebellum.
 
-<img src="/assets/images/relb_map_sm_thr_surf.png" alt="drawing" width="400"/>
+<img src="/assets/images/relb_map_sm_thr_surf.png" alt="drawing" width="400"/> <img src="/assets/images/relb_n33_cb_flatmap.png" alt="drawing" width="200"/>
 
 Next, we compared the neural response within these regions across every relationship, to see how similar the relationships were to each other. 
 
 Finally, we compared the neural representation of social relationships, to each dimension of the FAVEE model representation. These results are shown below, and indicated that Formality, Valence, and Equality are similar to the neural representation of social relationships. 
-<img src="/assets/images/roi_subject-level_violinplot.png" alt="drawing" width="400"/>
+<img src="/assets/images/roi_subject-level_barplot.png" alt="drawing" width="500"/>
