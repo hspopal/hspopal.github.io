@@ -23,9 +23,9 @@ This could be one model of social relationship knowledge. However, this is hard 
 
 ### The Categorical Representation
 
-Now we have a model that can describe each social relationship as being some part formality, activeness, valence, exchange, and equality. But can we get categories that could group the relationships and describe each group with just one concept? To do this, we used clustering algorithms to group relationships. Hierarchical clustering allowed us to start with all relationships in one group, and continually break things down until we get a good solution. This lead to a solution in which three large categories and six smaller categoroes that can be used to group relationships. What we also see is that these categories can be organized along the five dimensions as well, where for example, Hostile relationships are negative Valence.
+Now we have a model that can describe each social relationship as being some part formality, activeness, valence, exchange, and equality. But can we get categories that could group the relationships and describe each group with just one concept? To do this, we used clustering algorithms to group relationships. K-means clustering was used to group relationships that were close in the 5-dimensional space to each other. This lead to a solution in which three large categories could be used to group relationships. The figure below shows the relationships in three color-coded categories, along the Formality, Activeness, and Valence dimensions. What we also see is that these categories can be organized along the five dimensions as well, where for example, Hostile relationships are negative Valence.
 
-<img src="/assets/images/pca_5pc_12_scatter_kmeans.png" alt="drawing" width="400"/><img src="/assets/images/pca_5pc_34_scatter_kmeans.png" alt="drawing" width="400"/>
+<img src="/assets/images/FAVEE-HPP_model.png" alt="drawing" width="400"/>
 
 
 
