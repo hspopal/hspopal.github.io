@@ -33,9 +33,9 @@ Now we have a model that can describe each social relationship as being some par
 
 In our final analysis, we wished to understand how the brain organizes social relationship knowledge across different regions, and whether this organization is similar to our FAVEE model. Specifically, we wanted to examine if the neural responses to a given relationship are similar or different to other relationships. By comparing how similar neural responses are to relationships, we can create a mental model of that organization space, and compare it to the organization space of the FAVEE model. In this way, we can use the brain as a "test" for our model to see if the model is how people actively think about social relationships. 
 
-During an fMRI task which asked participants to consider which of two scenarios was most appropriate for a given relationship, regions of the "social brain" network, or the default mode network, were reliably activated. This included the posterior cingulate cortex, medial prefrontal cortex, temporoparietal junction, superior temporal sulcus, and a region within the posterior cerebellum.
+During an fMRI task which asked participants to consider which of two scenarios was most appropriate for a given relationship, regions of the "social brain" network, or the default mode network, were reliably activated. This included the posterior cingulate cortex, medial prefrontal cortex, temporoparietal junction, superior temporal sulcus (all shown in the figure on the left), and a region within the posterior cerebellum (shown in the figure on the right, if you layout the cerebellum completely flat from its original folded pattern). 
 
-<img src="/assets/images/relb_map_sm_thr_surf.png" alt="drawing" width="400"/> <img src="/assets/images/relb_n33_cb_flatmap.png" alt="drawing" width="200"/>
+<img src="/assets/images/relb_map_sm_thr_surf.png" alt="drawing" width="400"/> <img src="/assets/images/relb_n33_cb_flatmap.png" alt="drawing" width="300"/>
 
 Next, we compared the neural response within these regions across every relationship, to see how similar the relationships were to each other. 
 
